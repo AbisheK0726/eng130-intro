@@ -44,10 +44,12 @@ Agile is a way of thinking and working that helps teams deliver value to their c
 
 Some key principles of Agile include:
 
-- Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
+- A project is broken down into smaller pieces of work.
+- Each piece of work is assigned a tag that describes its priority.
+- The team works on the highest priority piece of work first.
 
 ### What is Scrum?
 
