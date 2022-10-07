@@ -39,8 +39,6 @@ Some of the points that we learned about DevOps include:
 
 ## What makes a good DevOps Engineer
 
-james-gallagher
-
 ## An introduction to Agile and Scrum
 
 ### What is Agile?
