@@ -25,8 +25,6 @@ The feedback include points such as:
 
 ## What is DevOps
 
-![What-is-DevOps](images/devopsDiagram.jpg)
-
 We were put into groups and we had to research what DevOps is and present it to the rest of the cohort.
 This activity was very helpful as it gave us the chance to learn about DevOps and how it is used in the industry.
 
@@ -37,7 +35,19 @@ Some of the points that we learned about DevOps include:
 - DevOps uses CI/CD and automation to improve efficiency
 - DevOps can reduce the cost of delivery
 
-## What makes a good DevOps Engineer
+![What-is-DevOps](images/devopsDiagram.jpg)
+
+### Role of a DevOps Engineer
+
+A DevOps Engineer works with developers and the operations staff to oversee the code releases, combining an understanding of both engineering and coding. From creating and implementing systems software to analyzing data to improve existing ones.
+A DevOps Engineer increases productivity in the workplace.
+
+### What makes a good DevOps Engineer
+
+- Communication and Collaboration
+- Soft Skills - self-motivation, flexibility, and learning
+- Staying updated with relevant technologies and new tools
+- Passion and Proactiveness make you a successful DevOps professional
 
 ## An introduction to Agile and Scrum
 
