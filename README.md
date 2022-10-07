@@ -25,6 +25,8 @@ The feedback include points such as:
 
 ## What is DevOps
 
+![What-is-DevOps](images/devopsDiagram.png) { width: 300px; }
+
 We were put into groups and we had to research what DevOps is and present it to the rest of the cohort.
 This activity was very helpful as it gave us the chance to learn about DevOps and how it is used in the industry.
 
@@ -39,6 +41,8 @@ Some of the points that we learned about DevOps include:
 
 ### What is Agile?
 
+![Agile](images/agileDiagram.jpg) { width: 300px; }
+
 Agile is a set of principles and practices that help teams deliver value to their customers faster and with higher quality. Agile is a mindset, a way of thinking and working.
 Agile is a way of thinking and working that helps teams deliver value to their customers faster and with higher quality.
 
@@ -52,6 +56,8 @@ Some key principles of Agile include:
 - The team works on the highest priority piece of work first.
 
 ### What is Scrum?
+
+![SCRUM](images/scrumDiagram.png) { width: 300px; }
 
 Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value. Scrum is a framework for getting work done.
 
