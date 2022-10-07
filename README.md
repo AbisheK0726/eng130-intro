@@ -37,6 +37,10 @@ Some of the points that we learned about DevOps include:
 - DevOps uses CI/CD and automation to improve efficiency
 - DevOps can reduce the cost of delivery
 
+## What makes a good DevOps Engineer
+
+james-gallagher
+
 ## An introduction to Agile and Scrum
 
 ### What is Agile?
@@ -61,18 +65,18 @@ Some key principles of Agile include:
 
 Scrum is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value. Scrum is a framework for getting work done.
 
-Some of the roles in Scrum include:
-
-- Product Owner
-- Scrum Master
-- Development Team
-
 Some of the events in Scrum include:
 
 - Sprint Planning
 - Daily Scrum
 - Sprint Review
 - Sprint Retrospective
+
+Some of the roles in Scrum include:
+
+- Product Owner
+- Scrum Master
+- Development Team
 
 ## How to install Python 3 and Pycharm
 
@@ -92,10 +96,10 @@ To install Python 3 on your machine you can follow the steps below:
 
 To install Pycharm on your machine you can follow the steps below:
 
-1. Go to the [Pycharm Website](https://link-url-here.org) and download the latest version of Pycharm.
+1. Go to the [Pycharm Website](https://www.jetbrains.com/pycharm/download) and download the latest version of Pycharm.
 2. Once the download has finished, open the file and follow the installation steps.
 
-**_NOTE:_**  Make sure you check the `.py` and `Add Launchers dir to the PATH` options. This may require you to restart your machine.
+**_NOTE:_**  Make sure you check the ".py" and "Add Launchers dir to the PATH" options. This may require you to restart your machine.
 
 ![pycharminstaller](images/pycharmInstaller.png)
 
@@ -108,3 +112,25 @@ Click on the "New Project" button and you should see the following screen:
 ![newprojectPycharm](images/newprojectPycharm.png)
 
 Make sure that "Base Interpreter" is set to the right Python version and click on the "Create" button.
+
+You have now successfully installed Python 3 and Pycharm.
+
+## How to add a new variable to your PATH environment variable
+
+If you were not able to add Python to your PATH environment variable when you installed Python, you can follow the steps below to add it manually:
+
+### Windows
+
+1. Open the Start Menu and search for "Edit the system environment variables".
+2. Click on the "Environment Variables" button.
+3. Under the "System Variables" section, click on the "Path" variable.
+4. Click on the "Edit" button.
+5. Click on the "New" button and add the path to the folder you want to add to your PATH environment variable.
+
+![windowsPath](images/addPATH.jpg)
+
+### Mac
+
+1. Open the terminal and type in the following command: `nano ~/.bash_profile`
+2. Add the path to the folder you want to add to your PATH environment variable.
+3. Save the file and exit the terminal.
